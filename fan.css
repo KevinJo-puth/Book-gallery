@@ -4,7 +4,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body{
-    background-color: rgb(77, 77, 100);
+    background-color: rgb(195, 195, 202);
 }
 #offer{
     background-color: rgb(167, 150, 167);
@@ -48,7 +48,7 @@ body{
     padding: 5px;
 } 
 #authors{
-    background-color:  rgb(167, 150, 167);
+    background-color:  silver;
 }
 .card img {
   height: 200px;
